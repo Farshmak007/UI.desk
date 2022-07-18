@@ -1,0 +1,21 @@
+.nav a{
+    color: #2C3847;;
+    margin-right: 40px;
+    text-decoration: none;
+
+}
+
+.header_top_nav a:hover{
+    color: #5FB848;
+}
+
+.footer_content a{
+    font-style: normal;
+font-weight: 760;
+font-size: 16px;
+line-height: 20px;
+color: #657582;
+text-decoration: none;
+display: block;     
+margin-top: 18px;
+}
